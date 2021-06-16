@@ -12,4 +12,4 @@ Arcade https://www.1001freefonts.com/arcade.font
 
 Preview
 
-<img src="https://github.com/RickD259/pi4_car_audio/blob/main/images/fm_radio.jpg">
+<img src="https://github.com/RickD259/pi4_car_audio/blob/main/images/fm.png">
